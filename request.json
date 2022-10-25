@@ -1,0 +1,47 @@
+{
+  "isReservationsDespatchCreatingAllowed": true,
+  "createDocumentFromReservationsDespatchAfterCommit": false,
+  "externalIdentifier": "3524",
+  "externalNumber": "test us\u0142ug Raben_01",
+  "orderNumber": "test us\u0142ug Raben",
+  "targetWarehouse": "9599",
+  "contractor": "9599_001",
+  "assortmentOwner": "9599_001",
+  "currencySymbol": "EUR",
+  "requestedShippingDate": "2022-10-17T13:38:54+00:00",
+  "shippingToContractorDate": "2022-10-17T13:38:54+00:00",
+  "positions": [{ "assortmentSymbol": "922-S", "quantityRequested": "1" }],
+  "shippingDefinitionCode": "Raben_Onyks_Prolog",
+  "additionalInfo": "test us\u0142ug Raben",
+  "remarks": null,
+  "shipmentRemarks": "Raben_Onyks_Prolog",
+  "costsCenterNumber": "9555",
+  "contractorInvoiceNumber": "0000000363284782",
+  "shippingAddress": {
+    "first_name": "Nova",
+    "last_name": "TEST",
+    "company": "Ignore email",
+    "address_1": "Calugareni",
+    "address_2": "12",
+    "city": "Bacau",
+    "state": "BC",
+    "postcode": "600407",
+    "country": "RO",
+    "phone": ""
+  },
+  "shippingService": {
+    "shippingServiceTypeName": "Cargo Premium",
+    "serviceParameters": [
+      { "serviceId": 5, "parameterValue": false },
+      { "serviceId": 33, "parameterValue": true },
+      { "serviceId": 34, "parameterValue": "08:30-09:30" },
+      { "serviceId": 181, "parameterValue": true },
+      { "serviceId": 184, "parameterValue": true },
+      { "serviceId": 180, "parameterValue": "08:00-16:00" },
+      { "serviceId": 183, "parameterValue": "JERONSKABI" },
+      { "serviceId": 187, "parameterValue": true },
+      { "serviceId": 1, "parameterValue": false },
+      { "serviceId": 9, "parameterValue": "" }
+    ]
+  }
+}
